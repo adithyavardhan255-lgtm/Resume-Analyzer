@@ -1,0 +1,23 @@
+[
+  {"title": "Python Developer", "company": "TechNova",
+   "description": "Build backend services using Python, Django and REST API. Work with PostgreSQL, Git and Docker. Strong knowledge of OOP, data structures and unit testing required.",
+   "skills": ["python", "django", "postgresql", "git"]},
+  {"title": "Frontend Developer", "company": "PixelWorks",
+   "description": "Develop responsive web interfaces using HTML, CSS, JavaScript and React. Experience with Git, REST API integration and teamwork in Agile teams.",
+   "skills": ["html", "css", "javascript", "react"]},
+  {"title": "Data Analyst", "company": "InsightLabs",
+   "description": "Analyze data using Python, pandas, numpy and SQL. Create dashboards with Tableau or Power BI. Good statistics and communication skills needed.",
+   "skills": ["python", "sql", "pandas", "statistics"]},
+  {"title": "Machine Learning Engineer", "company": "NeuralEdge",
+   "description": "Design machine learning and deep learning models using Python, scikit-learn, TensorFlow or PyTorch. Knowledge of NLP, data structures, algorithms and Git required.",
+   "skills": ["python", "machine learning", "tensorflow"]},
+  {"title": "Java Backend Developer", "company": "EnterpriseSoft",
+   "description": "Develop enterprise applications using Java, Spring Boot and MySQL. Strong OOP, design patterns, REST API, Git and Agile experience required.",
+   "skills": ["java", "spring boot", "mysql"]},
+  {"title": "DevOps Engineer", "company": "CloudCraft",
+   "description": "Manage CI/CD pipelines with Jenkins, Docker, Kubernetes on AWS. Linux, Git and bash scripting skills needed.",
+   "skills": ["docker", "kubernetes", "aws", "linux"]},
+  {"title": "Full Stack Developer", "company": "StackUp",
+   "description": "Work on Node.js, Express, React and MongoDB applications. Knowledge of JavaScript, REST API, Git and Agile methodology.",
+   "skills": ["node.js", "react", "mongodb", "javascript"]}
+]
